@@ -1,0 +1,35 @@
+_repo: Caught-by-the-Turks_37343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yeats-Brown, Francis
+    aliases:
+    - Yeats-Brown, F. (Francis)
+    - Yeats-Brown, Francis Charles Claypon
+    birthdate: 1886
+    deathdate: 1944
+    gutenberg_agent_id: '38780'
+    url: http://www.gutenberg.org/2009/agents/38780
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Yeats-Brown
+description: ''
+gutenberg_issued: '2011-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37343'
+  lccn: '20000032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, Turkish'
+tableOfContents: Capture -- A shadowland of arabesques -- The terrible Turk -- "Out
+  of great tribulation" -- The long descent of wasted days -- The psychology of prison
+  -- The comic hospital in Constantinople -- Our first escape -- A city of disguises
+  -- Recaptured -- The black hole of Constantinople -- Our second escape.
+title: Caught by the Turks
+url: http://www.gutenberg.org/ebooks/37343
